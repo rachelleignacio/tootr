@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tootr</string>
+    <string name="navigation_clients">Clients</string>
+    <string name="navigation_packages">Packages</string>
+</resources>
