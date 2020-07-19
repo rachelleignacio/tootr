@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Tootr</string>
+
     <string name="navigation_clients">Clients</string>
     <string name="navigation_packages">Packages</string>
+
+    <string name="add_new_client">Add New Client</string>
+
+    <string name="list_item_bullet">\u2022 %s</string>
 </resources>
